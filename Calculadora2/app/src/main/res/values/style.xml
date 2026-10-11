@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Button1" parent="Widget.Material3.Button">
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="backgroundTint">@color/btn1</item>
+        <item name="android:textColor">@color/txt</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textSize">25sp</item>
+        <item name="cornerRadius">22dp</item>
+        <item name="strokeWidth">3sp</item>
+        <item name="strokeColor">@color/btn1stroke</item>
+        <item name="android:layout_margin">3dp</item>
+        <item name="android:fontFamily">sans-serif-medium</item>
+
+    </style>
+    <style name="Button2" parent="Widget.Material3.Button">
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="backgroundTint">@color/btn2</item>
+        <item name="android:textColor">@color/txt</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textSize">20sp</item>
+        <item name="cornerRadius">22dp</item>
+        <item name="strokeWidth">3sp</item>
+        <item name="strokeColor">@color/btn2stroke</item>
+        <item name="android:fontFamily">sans-serif-medium</item>
+
+    </style>
+    <style name="Button2Disabled" parent="Widget.Material3.Button">
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="backgroundTint">@color/btn2Dis</item>
+        <item name="android:textColor">@color/txtDis</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textSize">20sp</item>
+        <item name="cornerRadius">22dp</item>
+        <item name="strokeWidth">3sp</item>
+        <item name="strokeColor">@color/btn2strokeDis</item>
+        <item name="android:fontFamily">sans-serif-medium</item>
+
+    </style>
+    <style name="Button3" parent="Widget.Material3.Button">
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="backgroundTint">@color/eql</item>
+        <item name="android:textColor">@color/txt</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textSize">20sp</item>
+        <item name="cornerRadius">20dp</item>
+        <item name="strokeWidth">3sp</item>
+        <item name="android:layout_margin">2dp</item>
+        <item name="strokeColor">@color/eqlstroke</item>
+        <item name="android:fontFamily">sans-serif-medium</item>
+
+    </style>
+
+
+</resources>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#EBEBEB</color>
+    <color name="eql">#FFAC31</color>
+    <color name="btn1">#FFF2A1</color>
+    <color name="btn2">#FFCD6E</color>
+    <color name="btn2Dis">#AFA899</color>
+    <color name="bg">#F0E7C4</color>
+    <color name="txt">#3E3B32</color>
+    <color name="txtDis">#524E4A</color>
+    <color name="txtbg">#ABA690</color>
+    <color name="btn1stroke">#E7DA88</color>
+    <color name="btn2stroke">#EFB13D</color>
+    <color name="btn2strokeDis">#8E867D</color>
+    <color name="eqlstroke">#E79519</color>
+
+</resources>
